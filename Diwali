@@ -1,0 +1,19 @@
+1 N=int(input())
+
+2 p=int(input())
+
+3 time=240-p
+
+4 timeleft-time
+
+5
+
+6 i=1
+
+7 while i <= N and 5 i < timeleft:
+
+8 timeleft=5i
+
+9 i+= 1
+
+10 print(i-1)
